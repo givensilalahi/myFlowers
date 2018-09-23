@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="app_name_real">myFlower</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_recycler_view">RecyclerView</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+
+    <string name="j_daisy">DAISY</string>
+    <string name="j_dandelion">DANDELION</string>
+    <string name="j_roses">ROSES</string>
+    <string name="j_sunflowers">SUNFLOWERS</string>
+    <string name="j_tulips">TULIPS</string>
+
+    <string name="k_daisy">
+        Daisy (O.E.,=day\'s eye), name for several common wildflowers of the family <i>Asteraceae</i> (aster family).
+        The daisy of literature, the true daisy, is <i>Bellis perennis</i>, called in the United States English daisy.
+        \n\nScientific classification of Daisy flower :
+        \nKingdom     : <i>Plantae</i>
+        \nDivision    : <i>Magnoliophyta</i>
+        \nClass       : <i>Magnoliopsida</i>
+        \nOrder       : <i>Asterales</i>
+        \nFamily      : <i>Asteraceae</i>
+        \nGenus       : <i>Bellis</i>
+    </string>
+    <string name="k_dandelion">
+        Dandelion (<i>Taraxacum officinale</i> ) is a common meadow herb of the <i>Asteraceae</i> or sunflower family.There are about 100
+        species of dandelion, and all are beneficial. This sun-loving beauty is a native of Greece,
+        naturalized in temperate regions throughout the world, and familiar to nearly everyone.
+        The perennial dandelion grows freely wherever it can find a bit of earth and a place
+        in the sun. Dandelion\'s nutritive and medicinal qualities have been known for centuries.
+        \n\nScientific classification of Dandelion flower :
+        \nKingdom     : <i>Plantae</i>
+        \nDivision    : <i>Magnoliophyta</i>
+        \nClass       : <i>Magnoliopsida</i>
+        \nOrder       : <i>Asterales</i>
+        \nFamily      : <i>Asteraceae</i>
+        \nSubfamily   : <i>Cichorioideae</i>
+        \nGenus       : <i>Taraxacum</i>
+    </string>
+    <string name="k_roses">
+        The Rose family is especially abundant in E Asia, Europe, and North America, where species of almost
+        half of the family\'s genera are indigenous, especially in the
+        Pacific coastal area. Many of the <i>Rosaceae</i> are thorny, and most are characterized
+        by the presence of stipules on the leaf, by flowers having five sets of parts,
+        by a fleshy fruit, such as a rose hip or an apple, that is derived in large part from a
+        cup-shaped enlargement of the flower stalk, and by the near absence of endosperm in the seed.
+        \n\nScientific classification of Roses flower :
+        \nKingdom     : <i>Plantae</i>
+        \nDivision    : <i>Magnoliophyta</i>
+        \nClass       : <i>Magnoliopsida</i>
+        \nOrder       : <i>Rosales</i>
+        \nFamily      : <i>Rosaceae</i>
+        \nSubfamily   : <i>Rosoideae</i>
+        \nGenus       : <i>Rosa</i>
+    </string>
+    <string name="k_sunflowers">
+        Sunflower, any plant of the genus <i>Helianthus</i> of the family <i>Asteraceae</i> (aster family), annual or
+        perennial herbs native to the New World and common throughout the United States.
+        In cultivation, the flower heads, commonly having yellow rays, sometimes
+        reach 1 ft (30 cm) in diameter. The common sunflower (<i>H. annuus</i>) is an annual, native from
+        Minnesota to Texas and California and perhaps also in Central and South America.
+        \n\nScientific classification of Sunflowers flower :
+        \nKingdom     : <i>Plantae</i>
+        \nDivision    : <i>Magnoliophyta</i>
+        \nClass       : <i>Magnoliopsida</i>
+        \nOrder       : <i>Asterales</i>
+        \nFamily      : <i>Asteraceae</i>
+        \nGenus       : <i>Helianthus</i>
+        \nSpecies     : <i>annuus</i>
+    </string>
+    <string name="k_tulips">
+        Tulip [Pers.,=turban], any plant of the large genus <i>Tulipa</i>, hardy, bulbous-rooted members of the family
+        <i>Liliaceae</i> (lily family), indigenous to north temperate regions of the Old World
+        from the Mediterranean to Japan and growing most abundantly on the steppes of Central Asia.
+        Cultivated tulips, popular as garden and cut flowers and as potted plants, are chiefly
+        varieties of <i>T. gesneriana</i>. They have deep, cup-shaped blossoms of various rich colors.
+        \n\nScientific classification of Tulips flower :
+        \nKingdom     : <i>Plantae</i>
+        \nDivision    : <i>Magnoliophyta</i>
+        \nClass       : <i>Lilliopsida</i>
+        \nOrder       : <i>Liliales</i>
+        \nFamily      : <i>Liliaceae</i>
+        \nGenus       : <i>Tulipa</i>
+    </string>
+
+    <string name="w_daisy">https://www.encyclopedia.com/plants-and-animals/plants/plants/daisy</string>
+    <string name="w_dandelion">https://www.encyclopedia.com/plants-and-animals/plants/plants/dandelion</string>
+    <string name="w_roses">https://www.encyclopedia.com/plants-and-animals/plants/plants/rose</string>
+    <string name="w_sunflowers">https://www.encyclopedia.com/plants-and-animals/plants/plants/sunflower</string>
+    <string name="w_tulips">https://www.encyclopedia.com/plants-and-animals/plants/plants/tulip</string>
+
+
+</resources>
